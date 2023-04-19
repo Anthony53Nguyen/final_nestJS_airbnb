@@ -1,5 +1,5 @@
 # docker-compose up -d
-version: '3.8'
+version: '3'
 services:
   nest-api:
     container_name: nest-api
